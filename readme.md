@@ -1,2 +1,4 @@
 #Gitチュートリアル
-    - feature-A
+<<<<<<< HEAD
+ -feature-A
+ -fix-b
