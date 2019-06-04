@@ -1,2 +1,1 @@
-fuck	
-fuck to the future
+#Gitチュートリアル
